@@ -1,0 +1,26 @@
+[
+    {
+        "estudiante":"Parrales Solorzano Cristhina Michell",
+        "cedula": "1351023989",
+        "curso":"Quinto",
+        "paralelo": "A",
+        "edad":21
+    
+    },
+    {
+        "estudiante":"Barcia Falconi Marcos Enrique",
+        "cedula": "1313458967",
+        "curso":"Quinto",
+        "paralelo": "A",
+        "edad":16
+    
+    },
+    {
+        "estudiante":"Yandry Javier Briones Molina",
+        "cedula": "170123456782",
+        "curso":"Quinto",
+        "paralelo": "A",
+        "edad":18
+    
+    }
+]

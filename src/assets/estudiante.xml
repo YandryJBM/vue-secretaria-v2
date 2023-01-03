@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <0>
+         <estudiante>Parrales Solorzano Cristhina Michell</estudiante>
+         <cedula>1351023989</cedula>
+         <curso>Quinto</curso>
+         <paralelo>A</paralelo>
+         <beca>90</beca>
+     </0>
+     <1>
+         <estudiante>Barcia Falconi Marcos Enrique</estudiante>
+         <cedula>1313458967</cedula>
+         <curso>Quinto</curso>
+         <paralelo>A</paralelo>
+         <beca>110</beca>
+     </1>
+     <2>
+         <estudiante>Yandry Javier Briones Molina</estudiante>
+         <cedula>170123456782</cedula>
+         <curso>Quinto</curso>
+         <paralelo>A</paralelo>
+         <beca>30</beca>
+     </2>
+ </root>
