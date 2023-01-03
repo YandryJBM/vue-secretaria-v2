@@ -12,7 +12,3 @@ This project uses [PNPM](https://pnpm.io/)
   pnpm install
   pnpm run dev
 ```
-
-## Screenshots
-
-![App Screenshot](/preview.png)
